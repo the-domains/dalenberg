@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Personal blog]]></title>
         <description><![CDATA[Personal blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.dalenberg.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 12:59:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 13:00:29 GMT</lastBuildDate>
+        <atom:link href="http://www.dalenberg.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The world’s richest 62 people now have more wealth than the poorest 3.6 billion combined]]></title>
+            <description><![CDATA[<article><h1>The world’s richest 62 people now have more wealth than the poorest 3.6 billion combined</h1><p>So much wealth has accumulated among the world’s richest that the 62 wealthiest people on the planet now own more than the poorest 3.6 billion people, or half the planet, according to research published by Oxfam, an anti-poverty charity.</p><img src="https://qzprod.files.wordpress.com/2016/01/rtx5vg.jpg?quality=80&strip=all&w=1600"></article>]]></description>
+            <link>http://www.dalenberg.nl/the-worlds-richest-62-people-now-have-more-wealth-than-the/index.html</link>
+            <guid isPermaLink="false">997e0a5f-6ae3-47a6-a72a-d12c5c02de53</guid>
+            <pubDate>Mon, 18 Jan 2016 13:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://qzprod.files.wordpress.com/2016/01/rtx5vg.jpg?quality=80&strip=all&w=1600">]]></description>
+            <link>http://www.dalenberg.nl/da901d40-619a-482c-a91a-efe716b903eb/index.html</link>
+            <guid isPermaLink="false">da901d40-619a-482c-a91a-efe716b903eb</guid>
+            <pubDate>Mon, 18 Jan 2016 12:59:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The world’s richest 62 people now have more wealth than the poorest 3.6 billion combined]]></title>
             <description><![CDATA[<article><h1>The world’s richest 62 people now have more wealth than the poorest 3.6 billion combined</h1><p>So much wealth has accumulated among the world’s richest that the 62 wealthiest people on the planet now own more than the poorest 3.6 billion people, or half the planet, according to research published by Oxfam, an anti-poverty charity.</p></article>]]></description>
-            <link>undefinedthe-worlds-richest-62-people-now-have-more-wealth-than-the/index.html</link>
+            <link>http://www.dalenberg.nl/the-worlds-richest-62-people-now-have-more-wealth-than-the/index.html</link>
             <guid isPermaLink="false">0d641d01-5edf-4695-9c31-add86f0e151a</guid>
             <pubDate>Mon, 18 Jan 2016 12:59:06 GMT</pubDate>
         </item>
