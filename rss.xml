@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Personal blog]]></title>
-        <description><![CDATA[Personal blog]]></description>
-        <link>http://www.dalenberg.nl/</link>
+        <title><![CDATA[Joe]]></title>
+        <description><![CDATA[Joe]]></description>
+        <link>https://thegrid.ai/dalenberg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 13:06:27 GMT</lastBuildDate>
-        <atom:link href="http://www.dalenberg.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 13:13:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dalenberg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[United Nude Lo Res Concept Car]]></title>
+            <description><![CDATA[<article><h1>United Nude Lo Res Concept Car</h1><p>Wider, taller, and meaner than its showroom cousin, the Nissan Titan Warrior Concept is yet another design exercise we'd like to take for a spin - in the dirt, not on the road. The rugged truck sits three inches higher than stock, and is six inches wider, as well, both necessary to fit the 37-inch off-road tires that sit on 18-inch dark matte aluminum alloy wheels.</p><img src="http://uncrate.com/p/2016/01/united-concept1.jpg"></article>]]></description>
+            <link>http://uncrate.com/stuff/united-nude-lo-res-concept-car-/</link>
+            <guid isPermaLink="false">265d3670-9e55-4930-a1dd-7fb4b55e3c6a</guid>
+            <pubDate>Mon, 18 Jan 2016 13:13:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The world’s richest 62 people now have more wealth than the poorest 3.6 billion combined]]></title>
             <description><![CDATA[<article><h1>The world’s richest 62 people now have more wealth than the poorest 3.6 billion combined</h1><p>So much wealth has accumulated among the world’s richest that the 62 wealthiest people on the planet now own more than the poorest 3.6 billion people, or half the planet, according to research published by Oxfam, an anti-poverty charity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2b1bb61bc9f54fb43cdfba4d2f3503f7f8380ad.jpg"></article>]]></description>
-            <link>http://www.dalenberg.nl/the-worlds-richest-62-people-now-have-more-wealth-than-the/index.html</link>
+            <link>https://thegrid.ai/dalenberg/the-worlds-richest-62-people-now-have-more-wealth-than-the/index.html</link>
             <guid isPermaLink="false">997e0a5f-6ae3-47a6-a72a-d12c5c02de53</guid>
             <pubDate>Mon, 18 Jan 2016 13:00:29 GMT</pubDate>
         </item>
