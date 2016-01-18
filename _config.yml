@@ -1,8 +1,7 @@
 name: Dalenberg
 favicon: null
-layout_spectrum: 0.8418833389878273
-typography_spectrum: 0.7397474378813058
-title: Joe
+layout_spectrum: 0.008017692482098937
+typography_spectrum: 0.4849361190572381
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fdfdfd'
-    - '#103756'
-    - '#afa99d'
-    - '#547268'
-    - '#141609'
-  brandStrength: 0.875
-  lightness: 0.25
-  saturation: 0.0625
-  rhythmicContrast: 0.5
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.024272457463666797
+  lightness: 0.4651443469338119
+  saturation: 0.394268382107839
+  rhythmicContrast: 0.38040107348933816
 purpose: []
