@@ -1,7 +1,7 @@
 name: Dalenberg
 favicon: null
-layout_spectrum: 0.008017692482098937
-typography_spectrum: 0.4849361190572381
+layout_spectrum: 0.5017164195887744
+typography_spectrum: 0.8938525372650474
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.024272457463666797
-  lightness: 0.4651443469338119
-  saturation: 0.394268382107839
-  rhythmicContrast: 0.38040107348933816
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.36234741215594113
+  lightness: 0.20043344236910343
+  saturation: 0.45234053931199014
+  rhythmicContrast: 0.5101728171575814
 purpose: []
