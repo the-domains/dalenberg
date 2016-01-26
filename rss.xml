@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Joe]]></title>
         <description><![CDATA[Joe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://dalenberg.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 19:45:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 19:45:32 GMT</lastBuildDate>
+        <atom:link href="http://dalenberg.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Europe has lower drinking ages than the US - and worse teen drinking problems]]></title>
+            <description><![CDATA[<article><h1>Europe has lower drinking ages than the US - and worse teen drinking problems</h1><p>One of the most common arguments against America's legal drinking age is that Europe has a supposedly safer drinking culture despite its lower drinking ages. After I wrote an argument for keeping the US drinking age at 21, it's a question that readers raised in emails again and again: If a lower drinking age is so bad, why is Europe doing fine?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41129585133ed98b8b42caf82f8b30e975e60524.jpg"></article>]]></description>
+            <link>http://www.vox.com/2016/1/26/10833208/europe-lower-drinking-age</link>
+            <guid isPermaLink="false">b9968b2e-54db-4bc8-bea9-54f49f558329</guid>
+            <pubDate>Tue, 26 Jan 2016 19:45:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The future of layout with CSS: Grid Layouts]]></title>
             <description><![CDATA[<article><h1>The future of layout with CSS: Grid Layouts</h1><p>In this article we'll take a look at the wonderful world of the CSS Grid Layout, a relatively new W3C specification that has partially started to see the light in some browsers. But before we dive into what this new CSS technique is all about and how to use it, let's quickly review grid theory.</p><img src="https://cdn-images-1.medium.com/max/800/1*oB_sweiQByIMdVPXGZrw4Q.png"></article>]]></description>
-            <link>undefinedthe-future-of-layout-with-css-grid-layouts/index.html</link>
+            <link>http://dalenberg.nl/the-future-of-layout-with-css-grid-layouts/index.html</link>
             <guid isPermaLink="false">3ad21309-a00e-478c-ad0e-7dc379598aa2</guid>
             <pubDate>Tue, 26 Jan 2016 19:45:23 GMT</pubDate>
         </item>
