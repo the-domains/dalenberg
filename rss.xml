@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Joe]]></title>
+        <description><![CDATA[Joe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 19:45:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The future of layout with CSS: Grid Layouts]]></title>
+            <description><![CDATA[<article><h1>The future of layout with CSS: Grid Layouts</h1><p>In this article we'll take a look at the wonderful world of the CSS Grid Layout, a relatively new W3C specification that has partially started to see the light in some browsers. But before we dive into what this new CSS technique is all about and how to use it, let's quickly review grid theory.</p><img src="https://cdn-images-1.medium.com/max/800/1*oB_sweiQByIMdVPXGZrw4Q.png"></article>]]></description>
+            <link>undefinedthe-future-of-layout-with-css-grid-layouts/index.html</link>
+            <guid isPermaLink="false">3ad21309-a00e-478c-ad0e-7dc379598aa2</guid>
+            <pubDate>Tue, 26 Jan 2016 19:45:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
