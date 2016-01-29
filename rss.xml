@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Joe]]></title>
+        <description><![CDATA[Joe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 22:06:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vette shit]]></title>
+            <description><![CDATA[<article><h1>Vette shit</h1><p>According to the United Nations' human rights office, more cases of sexual abuse of children by European peacekeeping troops in Central African Republic (CAR) have been uncovered. As many as six such cases have been turned up involving foreign soldiers from France, Georgia and another unnamed country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ea9cdef2a7cda064b60670c917d75b0c12834a2.jpg"></article>]]></description>
+            <link>undefinedvette-shit/index.html</link>
+            <guid isPermaLink="false">592b7cbf-d7cd-4de2-9063-1c4d4d844f6c</guid>
+            <pubDate>Fri, 29 Jan 2016 22:06:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
