@@ -1,5 +1,8 @@
+name: Dalenberg
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.874552
 title: Joe
-purpose: []
 collections:
   - index:
       path: /
@@ -12,28 +15,25 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.2562724
-  brandStrength: 0.9731183
-  lightness: 0.7921147
-  brandColors:
-    - '#0E0C0D'
-    - '#9A876E'
-    - '#FFF9F3'
-  rhythmicContrast: 0.6039426
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: Dalenberg
-favicon: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.874552
-layout_spectrum: 1
+color:
+  brandColors:
+    - '#0E0C0D'
+    - '#9A876E'
+    - '#FFF9F3'
+  brandStrength: 0.9731183
+  lightness: 0.7921147
+  saturation: 0.2562724
+  rhythmicContrast: 0.6039426
+purpose: []
